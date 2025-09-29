@@ -1,0 +1,21 @@
+#baslik-kismi {
+    display: flex;           
+    justify-content: center; 
+    align-items: center;     
+    position:relative;
+    top:0px;
+}
+
+#baslik {
+    text-align: center;  
+}
+#input-alani {
+    display: flex;           
+    justify-content: center; 
+    align-items: center;     
+    height: 50px;           
+    margin-top: 20px;      
+}
+body{
+    background-color: #e9e8e8;
+}
